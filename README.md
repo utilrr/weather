@@ -11,6 +11,7 @@
 ## Technologies Used
 
 ## Challenges Faced
+The API keys I created from openweathermap.org didn't work, so I stole one that did. :( I think I didn't wait long enough for them to be activated.
 
 ## Deployed Website link
 
